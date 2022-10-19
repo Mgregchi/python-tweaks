@@ -1,7 +1,14 @@
 # python-tweaks
 Collection of reusable python hacks and tweaks
 
-### Files and description
+> Inspired by my @HolbertonSchool **C** Projects
+
+`I am trying to replicate operations of some Buit-in Python methods / Functions.`
+
+`With minimal or no external module or functions.`
+
+### **Files and descriptions:**
+
 | File          | Description                                                            |
 | ------------- | ---------------------------------------------------------------------- |
 | strLen.py     | A program that returns length of strings / iterables                   |
