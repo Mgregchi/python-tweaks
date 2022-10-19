@@ -1,11 +1,11 @@
 # python-tweaks
 Collection of reusable python hacks and tweaks
 
-> Inspired by my @HolbertonSchool **C** Projects
+> Inspired by my [@HolbertonSchool](https://github.com/holbertonschool) [**C** Projects](https://github.com/Mgregchi/alx-low_level_programming)
 
-`I am trying to replicate operations of some Buit-in Python methods / Functions.`
+> I am trying to replicate operations of some Buit-in Python methods / Functions.
 
-`With minimal or no external module or functions.`
+> With minimal or no external module or functions.
 
 ### **Files and descriptions:**
 
