@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+# Program that concatenate iterables and strings
 
 from strLen import lenght
 
